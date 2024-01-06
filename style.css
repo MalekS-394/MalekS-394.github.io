@@ -20,7 +20,7 @@ img {
 }
 p{
 text-align: center;
-  font-color: #bb0303;
+  color: #bb0303;
   
 }
 /* We styled the paragraphs to look like boxes so that you can learn what each Flex property does */
