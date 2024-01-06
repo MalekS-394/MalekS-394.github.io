@@ -1,0 +1,21 @@
+body {
+  background: #c7efff;
+}
+
+h1 {
+  color: #bb0303;
+  text-align: center;
+}
+hr.chicken{
+  border-top: 5px dashed;
+  color: #ffb200;
+}
+a {
+  font-size: 30px;
+}
+img {
+  height:300px;
+
+  
+}
+/* We styled the paragraphs to look like boxes so that you can learn what each Flex property does */
